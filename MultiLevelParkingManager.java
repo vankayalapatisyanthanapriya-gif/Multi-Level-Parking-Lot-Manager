@@ -155,7 +155,7 @@ public class MultiLevelParkingManager {
             System.out.print("Enter your choice: ");
             choice = sc.nextInt();
 
-            // CO2: switch statement
+            
             switch (choice) {
 
                 case 1:
